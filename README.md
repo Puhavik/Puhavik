@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Puhavik
+- 👋 Hi, I’m Vikentiy Pukhaev
 - 👀 I’m interested in Computer science and Photography
 - 🌱 I’m currently learning Computer Science at the Uneversity of Vienna
 
