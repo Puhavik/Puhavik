@@ -67,18 +67,9 @@ When I'm not at a terminal — behind a lens, on a mountain bike, or somewhere o
 
 ---
 
-## `$ uptime`
-
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puhavik&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/Puhavik)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/Puhavik)
-
-</div>
-
----
-
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Puhavik&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Puhavik)
 
 *Cisco Networking Basics · 2024 · Previously: Chemistry @ Uni Wien 2017–2020*
 
