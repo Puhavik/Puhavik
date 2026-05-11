@@ -1,50 +1,34 @@
-```
-██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██╗   ██╗██╗██╗  ██╗
-██╔══██╗██║   ██║██║  ██║██╔══██╗██║   ██║██║██║ ██╔╝
-██████╔╝██║   ██║███████║███████║██║   ██║██║█████╔╝
-██╔═══╝ ██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝██║██╔═██╗
-██║     ╚██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║██║  ██╗
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝
-```
+<div align="center">
 
-<h1 align="center">Vikentiy Pukhaev</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:238636&height=200&section=header&text=Vikentiy%20Pukhaev&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=Cybersecurity%20·%20Full-Stack%20·%20Vienna&descAlignY=58&descSize=16&descColor=8b949e)
 
-<p align="center">
-  <strong>CS @ University of Vienna · Cybersecurity & Penetration Testing · Full-Stack Dev</strong><br>
-  <em>Studio Technical Lead · Vienna, Austria</em>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikentiy-pukhaev-0025a2246/)
+![Location](https://img.shields.io/badge/Vienna-Austria-DC143C?style=flat-square&logo=googlemaps&logoColor=white)
+![University](https://img.shields.io/badge/Universität_Wien-CS-1f6feb?style=flat-square)
+![Focus](https://img.shields.io/badge/Penetration_Testing-black?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikentiy-pukhaev-0025a2246/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Vienna-Austria-red?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Final%20Semester-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=flat-square&logo=hackthebox&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## `whoami`
+## `$ whoami`
 
-```
-$ cat /etc/profile.d/vik.sh
-
+```bash
 export ROLE="CS Student → Cybersecurity Specialist"
 export UNIVERSITY="Universität Wien"
-export SPECIALIZATION="Penetration Testing · Web · Binary · Crypto · Network"
+export SPECIALIZATION="Pentesting · Web · Binary · Crypto · Network"
 export STACK="Java | Python | C++ | Vue.js | React Native | Spring | D3.js"
 export INFRA="Linux · Docker · VPS · SSH · Firewall · fail2ban · VLESS"
 export PASSION="Breaking things ethically. Building them correctly."
 ```
 
-I'm finishing my Computer Science degree at the University of Vienna with a focus on **cybersecurity and penetration testing** — web, binary exploitation, cryptographic attacks, and network security. Alongside my studies, I serve as **Studio Technical Lead** at Imagine Studio, bridging technical architecture and creative delivery.
+Finishing my Computer Science degree at the University of Vienna with a focus on **cybersecurity and penetration testing** — web, binary exploitation, cryptographic attacks, and network security. Alongside my studies, I serve as **Studio Technical Lead** at Imagine Studio, bridging technical architecture and creative delivery.
 
-When I'm not at a terminal, I'm behind a lens, on a mountain bike, or somewhere on a slope.
+When I'm not at a terminal — behind a lens, on a mountain bike, or somewhere on a slope.
 
 ---
 
-## `ls -la skills/`
+## `$ ls skills/`
 
 **Languages**
 
@@ -72,7 +56,7 @@ When I'm not at a terminal, I'm behind a lens, on a mountain bike, or somewhere 
 
 ---
 
-## `cat projects/notable.md`
+## `$ cat projects/notable.md`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -83,28 +67,21 @@ When I'm not at a terminal, I'm behind a lens, on a mountain bike, or somewhere 
 
 ---
 
-## `netstat -an | grep interests`
+## `$ uptime`
 
-```
-tcp   ESTABLISHED   security::penetration_testing
-tcp   ESTABLISHED   dev::full_stack_engineering
-tcp   ESTABLISHED   infra::vps_management
-tcp   ESTABLISHED   irl::mountain_biking
-tcp   ESTABLISHED   irl::photography
-tcp   ESTABLISHED   irl::snowboarding
-```
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puhavik&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/Puhavik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/Puhavik)
+
+</div>
 
 ---
 
-## `uptime`
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puhavik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=tokyonight&hide_border=true)
+*Cisco Networking Basics · 2024 · Previously: Chemistry @ Uni Wien 2017–2020*
 
----
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1a3a5c,100:0d1117&height=80&section=footer)
 
-<p align="center">
-  <em>// Cisco Networking Basics · 2024</em><br>
-  <em>// Previously: Universität Wien, Chemistry · 2017–2020</em><br><br>
-  <sub>« The quieter you become, the more you can hear. »</sub>
-</p>
+</div>
