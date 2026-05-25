@@ -72,6 +72,15 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 ---
 
+## 🤝 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built Apple Watch app from scratch — native watchOS UI, Smart Stack & lock-screen complications, real-time sync via WatchConnectivity | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) |
+
+
+---
+
 ## 🎯 Current Focus
 
 ```text
