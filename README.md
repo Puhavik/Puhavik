@@ -53,13 +53,17 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-one-delta.vercel.app/api?username=Puhavik&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9&border_color=1F2937" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-one-delta.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=transparent&title_color=60A5FA&text_color=C9D1D9&border_color=1F2937" alt="Top languages"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Puhavik&theme=react-dark&hide_border=true&area=true&color=60A5FA&line=38BDF8&point=E2E8F0" alt="Contribution graph"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Puhavik&theme=transparent&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=94A3B8&border=1F2937" alt="Contribution streak"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Puhavik&theme=algolia&column=4&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Puhavik&theme=github_dark" alt="Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Puhavik&theme=github_dark" alt="Languages"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Puhavik&theme=transparent&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=94A3B8&border=1F2937" alt="Contribution streak"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Puhavik&theme=algolia&column=8&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
 </div>
 
 ---
