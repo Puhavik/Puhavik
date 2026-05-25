@@ -65,10 +65,16 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 | Project | Focus | Stack |
 |---|---|---|
-| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | ZIP password recovery with brute-force strategies | Java |
-| [**vector**](https://github.com/Puhavik/vector) | STL-compatible dynamic array from first principles | C++ |
-| [**smart-pointers**](https://github.com/Puhavik/smart-pointers-project) | Ownership & lifetime model reimplementation (`unique/shared/weak`) | C++ |
-| [**card-game**](https://github.com/Puhavik/card-game) | Terminal game engine with extensible mechanics | Java |
+| [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
+| [**myMusicApp**](https://github.com/Puhavik/myMusicApp) | Full mobile app: artist search via MusicBrainz API, release timelines, cover art from Cover Art Archive, in-session favorites with shared context, multi-screen navigation | React Native · Expo |
+| [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
+| [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Ownership & lifetime model reimplemented from scratch: `unique_ptr`, `shared_ptr`, `weak_ptr` with reference-counted control block | C++ |
+| [**vector**](https://github.com/Puhavik/vector) | STL-compatible dynamic array from first principles — manual memory management, copy/move semantics, iterator protocol | C++ |
+| [**MandelBrot**](https://github.com/Puhavik/MandelBrot) | Mandelbrot fractal renderer compiled to WebAssembly, served as an interactive browser app — written in Rust for performance-critical pixel computation | Rust · WASM |
+| [**Vehicles_On_Bridge**](https://github.com/Puhavik/Vehicles_On_Bridge) | Concurrent traffic simulation with a live GUI — multiple `TrafficController` strategies (simple, fair, starvation-free) implemented via Java threading primitives | Java · JavaFX |
+| [**RentalOffice**](https://github.com/Puhavik/RentalOffice) | Full-stack rental management system: relational schema design, JDBC backend, PHP/HTML frontend with complete CRUD across customers and offices | Java · PHP · SQL |
+| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | ZIP archive password recovery using configurable brute-force strategies — dictionary attack, charset enumeration, multithreaded candidate generation | Java |
+| [**ddiapp**](https://github.com/Puhavik/ddiapp) | Desktop DDI checker — loads drug interaction data from CSV, cross-references compound pairs, presents results in a JavaFX UI | Java · JavaFX |
 
 ---
 
