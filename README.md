@@ -58,8 +58,8 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Puhavik&theme=github_dark" alt="Stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Puhavik&theme=github_dark" alt="Languages"/>
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Puhavik&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Languages"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Puhavik&theme=transparent&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=94A3B8&border=1F2937" alt="Contribution streak"/>
 </div>
 
