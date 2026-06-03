@@ -64,7 +64,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Puhavik&theme=algolia&column=8&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
+  <img width="100%" src="https://github-trophies.vercel.app/?username=Puhavik&theme=algolia&column=8&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
 </div>
 
 ---
