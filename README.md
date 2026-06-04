@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,35:102A43,70:1E3A8A,100:22D3EE&text=Vikentiy%20Pukhaev&fontSize=54&fontColor=E6F1FF&fontAlignY=38&desc=Security%20Researcher%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Automation&descAlignY=58&descSize=16&descColor=9CC9FF&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,35:102A43,70:1E3A8A,100:22D3EE&text=Vikentiy%20Pukhaev&fontSize=54&fontColor=E6F1FF&fontAlignY=38&desc=Security%20Researcher%20•%20Full-Stack%20Developer%20•%20AI%20%26%20Automation&descAlignY=58&descSize=16&descColor=9CC9FF&animation=fadeIn" alt="header"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Puhavik&label=Profile%20views&color=1e3a8a&style=flat)](https://github.com/Puhavik)
 [![Followers](https://img.shields.io/github/followers/Puhavik?label=Followers&style=flat&color=2563eb)](https://github.com/Puhavik?tab=followers)
