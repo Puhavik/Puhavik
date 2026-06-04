@@ -18,7 +18,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🔐 Security research in web, network, and binary exploitation domains
 - 🛠️ Studio Technical Lead at **Imagine Studio** (infrastructure + delivery ownership)
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
-- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app and completed Russian localization (135 strings) for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
 - 📸 Outside engineering: photography, mountain biking, snowboarding
 
@@ -93,6 +93,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 | Project | Contribution | Status |
 |---|---|---|
 | [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built Apple Watch app from scratch — native watchOS UI, Smart Stack & lock-screen complications, real-time sync via WatchConnectivity | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) |
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Completed Russian localization — translated 135 missing strings in `Localizable.xcstrings`, added correct plural forms per Russian grammar rules | ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) |
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
 
 ---
