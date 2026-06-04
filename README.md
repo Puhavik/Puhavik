@@ -18,7 +18,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🔐 Security research in web, network, and binary exploitation domains
 - 🛠️ Studio Technical Lead at **Imagine Studio** (infrastructure + delivery ownership)
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
-- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app and completed Russian localization (135 strings) for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app and completed Russian localization for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
 - 📸 Outside engineering: photography, mountain biking, snowboarding
 
@@ -74,7 +74,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 | Project | Focus | Stack |
 |---|---|---|
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Open source contribution — fixed panel authorization and improved SNI selection logic for VLESS proxy configuration tool | Python |
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Open source contribution — built native Apple Watch app from scratch: Smart Stack & lock-screen complications, real-time sync via WatchConnectivity | Swift · SwiftUI |
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Open source contribution — built native Apple Watch app from scratch: Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization | Swift · SwiftUI |
 | [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
 | [**myMusicApp**](https://github.com/Puhavik/myMusicApp) | Full mobile app: artist search via MusicBrainz API, release timelines, cover art from Cover Art Archive, in-session favorites with shared context, multi-screen navigation | React Native · Expo |
 | [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
