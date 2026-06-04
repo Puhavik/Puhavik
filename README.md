@@ -16,7 +16,6 @@ I am a Computer Science student at **Universität Wien** focused on **offensive 
 My core workflow is simple: _break fast, understand deeply, rebuild correctly_. I work at the intersection of **penetration testing**, **backend architecture**, and **infrastructure hardening**.
 
 - 🔐 Security research in web, network, and binary exploitation domains
-- 🛠️ Studio Technical Lead at **Imagine Studio** (infrastructure + delivery ownership)
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
 - 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app and completed Russian localization for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
