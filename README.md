@@ -99,10 +99,10 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 ## 🎯 Current Focus
 
-- → Advanced penetration testing (web, binaries, protocols)
-- → Secure backend architecture & defensive coding
-- → Self-hosted infrastructure hardening (VPS, access control, telemetry)
-- → AI integration for SMBs — automating workflows, cutting routine overhead, and embedding intelligence into business operations
+- Advanced penetration testing (web, binaries, protocols)
+- Secure backend architecture & defensive coding
+- Self-hosted infrastructure hardening (VPS, access control, telemetry)
+- AI integration for SMBs — automating workflows, cutting routine overhead, and embedding intelligence into business operations
 
 ---
 
