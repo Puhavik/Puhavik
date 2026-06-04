@@ -104,7 +104,6 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 → Secure backend architecture & defensive coding
 → Self-hosted infrastructure hardening (VPS, access control, telemetry)
 → iOS & watchOS development (Swift, SwiftUI, WatchConnectivity)
-→ Scaling engineering execution as Studio Technical Lead
 ```
 
 ---
