@@ -103,7 +103,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 → Advanced penetration testing (web, binaries, protocols)
 → Secure backend architecture & defensive coding
 → Self-hosted infrastructure hardening (VPS, access control, telemetry)
-→ iOS & watchOS development (Swift, SwiftUI, WatchConnectivity)
+→ AI integration for SMBs — automating workflows, cutting routine overhead, and embedding intelligence into business operations
 ```
 
 ---
