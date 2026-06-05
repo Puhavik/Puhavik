@@ -18,7 +18,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🔐 Security research in web, network, and binary exploitation domains
 - 🏢 CTO at **Austrian Student** — admissions consulting agency
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
-- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app and completed Russian localization for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed Russian localization, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
 - 📸 Outside engineering: photography, mountain biking, snowboarding
 
@@ -74,7 +74,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 | Project | Focus | Stack |
 |---|---|---|
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Open source contribution — fixed panel authorization and improved SNI selection logic for VLESS proxy configuration tool | Python |
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Open source contribution — built native Apple Watch app from scratch: Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization | Swift · SwiftUI |
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Open source contribution — built native Apple Watch app from scratch: Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization; implemented on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with transparent cloud fallback | Swift · SwiftUI |
 | [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
 | [**myMusicApp**](https://github.com/Puhavik/myMusicApp) | Full mobile app: artist search via MusicBrainz API, release timelines, cover art from Cover Art Archive, in-session favorites with shared context, multi-screen navigation | React Native · Expo |
 | [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
@@ -92,7 +92,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 | Project | Contribution | Status |
 |---|---|---|
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms) | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) |
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) |
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
 
 ---
@@ -122,3 +122,4 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,40:1E3A8A,75:102A43,100:0B0F19" alt="footer"/>
 
 </div>
+
