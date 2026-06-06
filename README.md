@@ -20,6 +20,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
 - 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed Russian localization, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
+- 🔧 Open source contributor — fixed a wall-clock budget gap in the hint scanner of [Mole](https://github.com/tw93/Mole), a macOS system cleanup tool
 - 📸 Outside engineering: photography, mountain biking, snowboarding
 
 ---
@@ -93,6 +94,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 | Project | Contribution | Status |
 |---|---|---|
 | [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) |
+| [**Mole**](https://github.com/tw93/Mole) | Fixed a missing deadline check in the nested-dir scan loop that caused `mo clean` to hang on "Project artifacts" in large repos — added two checkpoints and a targeted regression test | ![Merged](https://img.shields.io/badge/PR%20%231072-Merged-6f42c1?style=flat&logo=github) |
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
 
 ---
@@ -122,4 +124,5 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,40:1E3A8A,75:102A43,100:0B0F19" alt="footer"/>
 
 </div>
+
 
