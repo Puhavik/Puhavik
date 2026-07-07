@@ -18,7 +18,8 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🔐 Security research in web, network, and binary exploitation domains
 - 🏢 CTO at **Austrian Student** — admissions consulting agency
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
-- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed Russian localization, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed full Russian localization across iOS **and Android**, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- 📱 Building **Dialed** — an iOS MTB maintenance tracker (Swift 6, SwiftUI, SwiftData + CloudKit) with per-component wear tracking, HealthKit import, and RU/EN localization
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
 - 🔧 Open source contributor — fixed a wall-clock budget gap in the hint scanner of [Mole](https://github.com/tw93/Mole), a macOS system cleanup tool
 - 📸 Outside engineering: photography, mountain biking, snowboarding
@@ -89,11 +90,22 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 ---
 
+## 🔒 Current Builds (private)
+
+| Project | Focus | Stack |
+|---|---|---|
+| **Dialed** | iOS MTB maintenance tracker — per-component wear in km/hours with condition multipliers, HealthKit ride import with cross-source dedup, local push reminders with deep links, iCloud/CloudKit sync, CSV export, RU/EN localization, 224 unit + 16 UI tests | Swift 6 · SwiftUI · SwiftData |
+| **uni-deadline-bot** | Monitoring service for admission deadlines & bachelor program listings across 7 Austrian universities — hash-first change detection over 33 tracked pages, regex/table parsing with structured LLM fallback (Gemini), diff-based Telegram notifications and scheduled deadline reminders | Python · httpx · Playwright |
+| **Visa_Calculations_bot** | Telegram bot computing minimum bank balance and sponsor turnover for Austrian residence permits from official ASVG-Richtsätze 2026 — step-back navigation, answer review screen, PDF export of results | Python |
+| **invoicegen-pro** | Desktop invoice generator with "Magic Input" — paste unstructured text and Gemini extracts client details and line items into the form; exports formatted PDF invoices | Electron · React · TypeScript |
+
+---
+
 ## 🤝 Open Source Contributions
 
 | Project | Contribution | Status |
 |---|---|---|
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) |
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback; completed Russian localization for the Android app (Jetpack Compose) to reach full RU coverage on both platforms | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) ![In Review](https://img.shields.io/badge/PR%20%23117-In%20Review-2ea44f?style=flat&logo=github) |
 | [**Mole**](https://github.com/tw93/Mole) | Fixed a missing deadline check in the nested-dir scan loop that caused `mo clean` to hang on "Project artifacts" in large repos — added two checkpoints and a targeted regression test | ![Merged](https://img.shields.io/badge/PR%20%231072-Merged-6f42c1?style=flat&logo=github) |
 | [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
 
