@@ -19,7 +19,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🏢 CTO at **Austrian Student** — admissions consulting agency
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
 - 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed full Russian localization across iOS **and Android**, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
-- 📱 Building **Dialed** — an iOS MTB maintenance tracker (Swift 6, SwiftUI, SwiftData + CloudKit) with per-component wear tracking, HealthKit import, and RU/EN localization
+- 📱 Building **Dialed** — an iOS MTB maintenance tracker (Swift 6, SwiftUI, SwiftData + CloudKit) with per-component wear tracking, HealthKit import, iCloud sync and RU/EN localization
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
 - 🔧 Open source contributor — fixed a wall-clock budget gap in the hint scanner of [Mole](https://github.com/tw93/Mole), a macOS system cleanup tool
 - 🔧 Open source contributor — shipped 6 PRs to [CarrierSIM](https://github.com/ios-bundles/CarrierSIM): read-only telephony diagnostics, per-SIM restore, richer `--status`, safer recovery and longer AirTraffic waits
@@ -35,6 +35,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -95,10 +96,11 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 | Project | Focus | Stack |
 |---|---|---|
-| **Dialed** | iOS MTB maintenance tracker — per-component wear in km/hours with condition multipliers, HealthKit ride import with cross-source dedup, local push reminders with deep links, iCloud/CloudKit sync, CSV export, RU/EN localization, 224 unit + 16 UI tests | Swift 6 · SwiftUI · SwiftData |
-| **uni-deadline-bot** | Monitoring service for admission deadlines & bachelor program listings across 7 Austrian universities — hash-first change detection over 33 tracked pages, regex/table parsing with structured LLM fallback (Gemini), diff-based Telegram notifications and scheduled deadline reminders | Python · httpx · Playwright |
+| **Dialed** | iOS MTB maintenance tracker — per-component wear in km/hours with condition multipliers, HealthKit ride import with cross-source dedup, local push reminders with deep links, iCloud/CloudKit sync, CSV export, RU/EN localization, 252 unit + 18 UI tests | Swift 6 · SwiftUI · SwiftData |
+| **uni-deadline-bot** | Monitoring service for admission deadlines & bachelor program listings across 7 Austrian universities — hash-first change detection over 33 tracked pages, regex/table parsing with structured LLM fallback (Gemini), diff-based Telegram notifications and scheduled deadline reminders, plus third-country document requirements | Python · httpx · Playwright |
+| **agent_bot** | Telegram task extractor — reads your chats via Telethon, a pipeline of Gemini sub-agents (cheap classifier → complexity-routed extractor → report agent) pulls out tasks and delivers a daily summary through a bot | Python · Telethon · Gemini |
 | **Visa_Calculations_bot** | Telegram bot computing minimum bank balance and sponsor turnover for Austrian residence permits from official ASVG-Richtsätze 2026 — step-back navigation, answer review screen, PDF export of results | Python |
-| **invoicegen-pro** | Desktop invoice generator with "Magic Input" — paste unstructured text and Gemini extracts client details and line items into the form; exports formatted PDF invoices | Electron · React · TypeScript |
+| **invoicegen-pro** | Desktop invoicing app (v2.4) — invoices, quotes and credit notes with gapless numbering, recurring schedules, partial payments and dunning, SEPA QR, Factur-X/ZUGFeRD e-invoicing, DATEV export, plus "Magic Input": Gemini turns pasted text, dictation or receipts into client details and line items; exports PDF | Electron · React · TypeScript |
 
 ---
 
