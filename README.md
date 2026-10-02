@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,35:102A43,70:1E3A8A,100:22D3EE&text=Vikentiy%20Pukhaev&fontSize=54&fontColor=E6F1FF&fontAlignY=38&desc=Security%20Researcher%20•%20Full-Stack%20Developer%20•%20AI%20%2B%20Automation&descAlignY=58&descSize=16&descColor=9CC9FF&animation=fadeIn" alt="header"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Puhavik&label=Profile%20views&color=1e3a8a&style=flat)](https://github.com/Puhavik)
 [![Followers](https://img.shields.io/github/followers/Puhavik?label=Followers&style=flat&color=2563eb)](https://github.com/Puhavik?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Puhavik?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0ea5e9)](https://github.com/Puhavik?tab=repositories)
 
 </div>
 
@@ -65,14 +63,15 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Puhavik&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Puhavik&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Languages"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Puhavik&theme=transparent&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=94A3B8&border=1F2937" alt="Contribution streak"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Puhavik/Puhavik/main/metrics.svg" alt="GitHub metrics"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-trophies.vercel.app/?username=Puhavik&theme=algolia&column=8&margin-w=8&margin-h=8&no-frame=true" alt="Trophies"/>
-</div>
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
