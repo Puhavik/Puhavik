@@ -114,12 +114,12 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 <sub>Updated automatically every 6 hours.</sub>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/Puhavik/apple-calendar-mcp/releases/tag/v0.4.0) in [Puhavik/apple-calendar-mcp](https://github.com/Puhavik/apple-calendar-mcp)
-2. 🎉 Merged PR [#12](https://github.com/ios-bundles/CarrierSIM/pull/12) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
-3. 🎉 Merged PR [#11](https://github.com/ios-bundles/CarrierSIM/pull/11) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
-4. 🎉 Merged PR [#10](https://github.com/ios-bundles/CarrierSIM/pull/10) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
-5. 🎉 Merged PR [#9](https://github.com/ios-bundles/CarrierSIM/pull/9) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
-6. 🎉 Merged PR [#8](https://github.com/ios-bundles/CarrierSIM/pull/8) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
+1. ❌ Closed PR [#1](https://github.com/Puhavik/fud-ai/pull/1) in [Puhavik/fud-ai](https://github.com/Puhavik/fud-ai)
+2. 🚀 Published release [v0.4.0](https://github.com/Puhavik/apple-calendar-mcp/releases/tag/v0.4.0) in [Puhavik/apple-calendar-mcp](https://github.com/Puhavik/apple-calendar-mcp)
+3. 🎉 Merged PR [#12](https://github.com/ios-bundles/CarrierSIM/pull/12) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
+4. 🎉 Merged PR [#11](https://github.com/ios-bundles/CarrierSIM/pull/11) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
+5. 🎉 Merged PR [#10](https://github.com/ios-bundles/CarrierSIM/pull/10) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
+6. 🎉 Merged PR [#9](https://github.com/ios-bundles/CarrierSIM/pull/9) in [ios-bundles/CarrierSIM](https://github.com/ios-bundles/CarrierSIM)
 <!--END_SECTION:activity-->
 
 ---
