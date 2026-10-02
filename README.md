@@ -61,12 +61,12 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 | [**apple-calendar-mcp**](https://github.com/Puhavik/apple-calendar-mcp) | MCP server for Apple Calendar and Reminders via EventKit — events with recurrence and alerts across iCloud/Google/Exchange accounts, dialog-free `.ics` import with Windows time zones, reminders management; no dependencies | Swift · EventKit · MCP
 | [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
 | [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
-| [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Ownership & lifetime model reimplemented from scratch: `unique_ptr`, `shared_ptr`, `weak_ptr` with reference-counted control block | C++ |
+| [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Guild economy simulation modelling object ownership with `std::unique_ptr` and `std::shared_ptr` — polymorphic `Person` hierarchy, licenses and guild membership | C++ |
 | [**vector**](https://github.com/Puhavik/vector) | STL-compatible dynamic array from first principles — manual memory management, copy/move semantics, iterator protocol | C++ |
 | [**MandelBrot**](https://github.com/Puhavik/MandelBrot) | Mandelbrot fractal renderer with a hand-rolled HTTP server — written in Rust using the `image` crate for pixel-level computation, serves rendered PNGs to the browser | Rust |
-| [**Vehicles_On_Bridge**](https://github.com/Puhavik/Vehicles_On_Bridge) | Concurrent traffic simulation with a live GUI — multiple `TrafficController` strategies (simple, fair, starvation-free) implemented via Java threading primitives | Java · JavaFX |
+| [**Vehicles_On_Bridge**](https://github.com/Puhavik/Vehicles_On_Bridge) | Single-lane bridge simulation with an animated GUI — traffic controllers built on Java monitors (`synchronized`, `wait`/`notifyAll`) and a fair `ReentrantLock` with `Condition` | Java · Swing |
 | [**RentalOffice**](https://github.com/Puhavik/RentalOffice) | Full-stack rental management system: relational schema design, JDBC backend, PHP/HTML frontend with complete CRUD across customers and offices | Java · PHP · SQL |
-| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | ZIP archive password recovery using configurable brute-force strategies — dictionary attack, charset enumeration, multithreaded candidate generation | Java |
+| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | Password recovery for your own encrypted ZIP archives — numeric key space split across a thread pool, early stop via `AtomicBoolean` | Java |
 | [**ddiapp**](https://github.com/Puhavik/ddiapp) | Desktop DDI checker — loads drug interaction data from CSV, cross-references compound pairs, presents results in a JavaFX UI | Java · JavaFX |
 
 ---
