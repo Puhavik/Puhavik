@@ -63,12 +63,14 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Puhavik/Puhavik/main/metrics.svg" alt="GitHub metrics"/>
+  <img src="https://raw.githubusercontent.com/Puhavik/Puhavik/main/metrics.svg" alt="GitHub metrics"/>
 </div>
 
 ---
 
 ## ⚡ Recent Activity
+
+<sub>Updated automatically every 6 hours.</sub>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v0.4.0](https://github.com/Puhavik/apple-calendar-mcp/releases/tag/v0.4.0) in [Puhavik/apple-calendar-mcp](https://github.com/Puhavik/apple-calendar-mcp)
