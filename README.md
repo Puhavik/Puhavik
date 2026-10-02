@@ -58,7 +58,10 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Puhavik&theme=react-dark&hide_border=true&area=true&color=60A5FA&line=38BDF8&point=E2E8F0" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puhavik/Puhavik/output/snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/Puhavik/Puhavik/output/snake-light.svg" alt="Contribution snake"/>
+  </picture>
 </div>
 
 <div align="center">
