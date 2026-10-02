@@ -53,6 +53,47 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 ---
 
+## 🚀 Highlight Projects
+
+| Project | Focus | Stack |
+|---|---|---|
+| [**spark-mcp**](https://github.com/Puhavik/spark-mcp) | MCP server that gives AI assistants read-only access to Spark Desktop mail on macOS — full-text search over Spark's FTS5 indexes, unreplied-mail detection, calendar invite parsing, language-aware reply drafts; single file, stdlib only, no network access | Python · MCP
+| [**apple-calendar-mcp**](https://github.com/Puhavik/apple-calendar-mcp) | MCP server for Apple Calendar and Reminders via EventKit — events with recurrence and alerts across iCloud/Google/Exchange accounts, dialog-free `.ics` import with Windows time zones, reminders management; no dependencies | Swift · EventKit · MCP
+| [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
+| [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
+| [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Ownership & lifetime model reimplemented from scratch: `unique_ptr`, `shared_ptr`, `weak_ptr` with reference-counted control block | C++ |
+| [**vector**](https://github.com/Puhavik/vector) | STL-compatible dynamic array from first principles — manual memory management, copy/move semantics, iterator protocol | C++ |
+| [**MandelBrot**](https://github.com/Puhavik/MandelBrot) | Mandelbrot fractal renderer with a hand-rolled HTTP server — written in Rust using the `image` crate for pixel-level computation, serves rendered PNGs to the browser | Rust |
+| [**Vehicles_On_Bridge**](https://github.com/Puhavik/Vehicles_On_Bridge) | Concurrent traffic simulation with a live GUI — multiple `TrafficController` strategies (simple, fair, starvation-free) implemented via Java threading primitives | Java · JavaFX |
+| [**RentalOffice**](https://github.com/Puhavik/RentalOffice) | Full-stack rental management system: relational schema design, JDBC backend, PHP/HTML frontend with complete CRUD across customers and offices | Java · PHP · SQL |
+| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | ZIP archive password recovery using configurable brute-force strategies — dictionary attack, charset enumeration, multithreaded candidate generation | Java |
+| [**ddiapp**](https://github.com/Puhavik/ddiapp) | Desktop DDI checker — loads drug interaction data from CSV, cross-references compound pairs, presents results in a JavaFX UI | Java · JavaFX |
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback; completed Russian localization for the Android app (Jetpack Compose) to reach full RU coverage on both platforms | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%23117-Merged-6f42c1?style=flat&logo=github) |
+| [**Mole**](https://github.com/tw93/Mole) | Fixed a missing deadline check in the nested-dir scan loop that caused `mo clean` to hang on "Project artifacts" in large repos — added two checkpoints and a targeted regression test | ![Merged](https://img.shields.io/badge/PR%20%231072-Merged-6f42c1?style=flat&logo=github) |
+| [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
+| [**CarrierSIM**](https://github.com/ios-bundles/CarrierSIM) | Added read-only telephony diagnostics (`--diagnose`, `--watch-call`); per-SIM stock profile restore (`--restore --sims N`); SIM details in `--status` and no auto-recovery from it; longer wait for AirTraffic to consume the final asset; `.gitignore` | ![Merged](https://img.shields.io/badge/PRs%20%237--%2312-Merged-6f42c1?style=flat&logo=github) |
+
+---
+
+## 🔒 Current Builds (private)
+
+| Project | Focus | Stack |
+|---|---|---|
+| **Dialed** | iOS MTB maintenance tracker — per-component wear in km/hours with condition multipliers, HealthKit ride import with cross-source dedup, local push reminders with deep links, iCloud/CloudKit sync, CSV export, RU/EN localization, 252 unit + 18 UI tests | Swift 6 · SwiftUI · SwiftData |
+| **uni-deadline-bot** | Monitoring service for admission deadlines & bachelor program listings across 7 Austrian universities — hash-first change detection over 33 tracked pages, regex/table parsing with structured LLM fallback (Gemini), diff-based Telegram notifications and scheduled deadline reminders, plus third-country document requirements | Python · httpx · Playwright |
+| **agent_bot** | Telegram task extractor — reads your chats via Telethon, a pipeline of Gemini sub-agents (cheap classifier → complexity-routed extractor → report agent) pulls out tasks and delivers a daily summary through a bot | Python · Telethon · Gemini |
+| **Visa_Calculations_bot** | Telegram bot computing minimum bank balance and sponsor turnover for Austrian residence permits from official ASVG-Richtsätze 2026 — step-back navigation, answer review screen, PDF export of results; modular codebase with flood protection, batched SQLite writes, structured JSON logging and CI deploy | Python |
+| **invoicegen-pro** | Desktop invoicing app (v2.4) — invoices, quotes and credit notes with gapless numbering, recurring schedules, partial payments and dunning, SEPA QR, Factur-X/ZUGFeRD e-invoicing, DATEV export, plus "Magic Input": Gemini turns pasted text, dictation or receipts into client details and line items; exports PDF | Electron · React · TypeScript |
+
+---
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
@@ -83,47 +124,6 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 ---
 
-## 🚀 Highlight Projects
-
-| Project | Focus | Stack |
-|---|---|---|
-| [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Open source contribution — fixed panel authorization and improved SNI selection logic for VLESS proxy configuration tool | Python |
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Open source contribution — built native Apple Watch app from scratch: Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization; implemented on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with transparent cloud fallback | Swift · SwiftUI |
-| [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
-| [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
-| [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Ownership & lifetime model reimplemented from scratch: `unique_ptr`, `shared_ptr`, `weak_ptr` with reference-counted control block | C++ |
-| [**vector**](https://github.com/Puhavik/vector) | STL-compatible dynamic array from first principles — manual memory management, copy/move semantics, iterator protocol | C++ |
-| [**MandelBrot**](https://github.com/Puhavik/MandelBrot) | Mandelbrot fractal renderer with a hand-rolled HTTP server — written in Rust using the `image` crate for pixel-level computation, serves rendered PNGs to the browser | Rust |
-| [**Vehicles_On_Bridge**](https://github.com/Puhavik/Vehicles_On_Bridge) | Concurrent traffic simulation with a live GUI — multiple `TrafficController` strategies (simple, fair, starvation-free) implemented via Java threading primitives | Java · JavaFX |
-| [**RentalOffice**](https://github.com/Puhavik/RentalOffice) | Full-stack rental management system: relational schema design, JDBC backend, PHP/HTML frontend with complete CRUD across customers and offices | Java · PHP · SQL |
-| [**ZipOpener**](https://github.com/Puhavik/ZipOpener) | ZIP archive password recovery using configurable brute-force strategies — dictionary attack, charset enumeration, multithreaded candidate generation | Java |
-| [**ddiapp**](https://github.com/Puhavik/ddiapp) | Desktop DDI checker — loads drug interaction data from CSV, cross-references compound pairs, presents results in a JavaFX UI | Java · JavaFX |
-
----
-
-## 🔒 Current Builds (private)
-
-| Project | Focus | Stack |
-|---|---|---|
-| **Dialed** | iOS MTB maintenance tracker — per-component wear in km/hours with condition multipliers, HealthKit ride import with cross-source dedup, local push reminders with deep links, iCloud/CloudKit sync, CSV export, RU/EN localization, 252 unit + 18 UI tests | Swift 6 · SwiftUI · SwiftData |
-| **uni-deadline-bot** | Monitoring service for admission deadlines & bachelor program listings across 7 Austrian universities — hash-first change detection over 33 tracked pages, regex/table parsing with structured LLM fallback (Gemini), diff-based Telegram notifications and scheduled deadline reminders, plus third-country document requirements | Python · httpx · Playwright |
-| **agent_bot** | Telegram task extractor — reads your chats via Telethon, a pipeline of Gemini sub-agents (cheap classifier → complexity-routed extractor → report agent) pulls out tasks and delivers a daily summary through a bot | Python · Telethon · Gemini |
-| **Visa_Calculations_bot** | Telegram bot computing minimum bank balance and sponsor turnover for Austrian residence permits from official ASVG-Richtsätze 2026 — step-back navigation, answer review screen, PDF export of results; modular codebase with flood protection, batched SQLite writes, structured JSON logging and CI deploy | Python |
-| **invoicegen-pro** | Desktop invoicing app (v2.4) — invoices, quotes and credit notes with gapless numbering, recurring schedules, partial payments and dunning, SEPA QR, Factur-X/ZUGFeRD e-invoicing, DATEV export, plus "Magic Input": Gemini turns pasted text, dictation or receipts into client details and line items; exports PDF | Electron · React · TypeScript |
-
----
-
-## 🤝 Open Source Contributions
-
-| Project | Contribution | Status |
-|---|---|---|
-| [**fud-ai**](https://github.com/apoorvdarshan/fud-ai) | Built native Apple Watch app from scratch — Smart Stack & lock-screen complications, real-time sync via WatchConnectivity; completed Russian localization (135 strings, correct plural forms); on-device AI food analysis via Apple Intelligence (`FoundationModels`, `@Generable`) with script detection and transparent cloud fallback; completed Russian localization for the Android app (Jetpack Compose) to reach full RU coverage on both platforms | ![Merged](https://img.shields.io/badge/PR%20%2362-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2381-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%2383-Merged-6f42c1?style=flat&logo=github) ![Merged](https://img.shields.io/badge/PR%20%23117-Merged-6f42c1?style=flat&logo=github) |
-| [**Mole**](https://github.com/tw93/Mole) | Fixed a missing deadline check in the nested-dir scan loop that caused `mo clean` to hang on "Project artifacts" in large repos — added two checkpoints and a targeted regression test | ![Merged](https://img.shields.io/badge/PR%20%231072-Merged-6f42c1?style=flat&logo=github) |
-| [**vless-wizard**](https://github.com/YukiKras/vless-wizard) | Fixed panel authorization bug and improved SNI selection logic | ![Merged](https://img.shields.io/badge/PR%20%236-Merged-6f42c1?style=flat&logo=github) |
-| [**CarrierSIM**](https://github.com/ios-bundles/CarrierSIM) | Added read-only telephony diagnostics (`--diagnose`, `--watch-call`); per-SIM stock profile restore (`--restore --sims N`); SIM details in `--status` and no auto-recovery from it; longer wait for AirTraffic to consume the final asset; `.gitignore` | ![Merged](https://img.shields.io/badge/PRs%20%237--%2312-Merged-6f42c1?style=flat&logo=github) |
-
----
-
 ## 🎯 Current Focus
 
 - Advanced penetration testing (web, binaries, protocols)
@@ -149,5 +149,3 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,40:1E3A8A,75:102A43,100:0B0F19" alt="footer"/>
 
 </div>
-
-
