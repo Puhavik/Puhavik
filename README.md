@@ -17,6 +17,7 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 - 🏢 CTO at **Austrian Student** — admissions consulting agency
 - 🧭 Building resilient self-hosted systems: VPS hardening, proxying, monitoring, and incident response
 - 🍎 Open source iOS & watchOS contributor — shipped a native Apple Watch app, completed full Russian localization across iOS **and Android**, and implemented on-device AI food analysis via Apple Intelligence for [fud-ai](https://github.com/apoorvdarshan/fud-ai)
+- ⚡ Building [**LightL**](https://github.com/Puhavik/LightL) — lightweight, native macOS menu bar app for seamless translation and in-place AI proofreading via Google Gemini API ([prebuilt DMG](https://github.com/Puhavik/LightL/releases/latest) available)
 - 📱 Building **Dialed** — an iOS MTB maintenance tracker (Swift 6, SwiftUI, SwiftData + CloudKit) with per-component wear tracking, HealthKit import, iCloud sync and RU/EN localization
 - 🔧 Open source contributor — added in-memory `inspect_document` tool for zero-disk inspection of PDFs, images, and text attachments in [telegram-mcp](https://github.com/chigwell/telegram-mcp)
 - 🔧 Open source contributor — fixed panel auth & improved SNI logic in [vless-wizard](https://github.com/YukiKras/vless-wizard)
@@ -58,8 +59,9 @@ My core workflow is simple: _break fast, understand deeply, rebuild correctly_. 
 
 | Project | Focus | Stack |
 |---|---|---|
-| [**spark-mcp**](https://github.com/Puhavik/spark-mcp) | MCP server that gives AI assistants read-only access to Spark Desktop mail on macOS — full-text search over Spark's FTS5 indexes, unreplied-mail detection, calendar invite parsing, language-aware reply drafts; single file, stdlib only, no network access | Python · MCP
-| [**apple-calendar-mcp**](https://github.com/Puhavik/apple-calendar-mcp) | MCP server for Apple Calendar and Reminders via EventKit — events with recurrence and alerts across iCloud/Google/Exchange accounts, dialog-free `.ics` import with Windows time zones, reminders management; no dependencies | Swift · EventKit · MCP
+| [**LightL**](https://github.com/Puhavik/LightL) | Lightweight native macOS menu bar app for seamless translation and in-place AI proofreading powered by Google Gemini API — contextual popover (`⌥⌘C`), direct in-app grammar/style correction (`⌥⌘W`), zero Dock clutter (~35 MB RAM, 0% CPU idle); prebuilt DMG available | Swift 6 · SwiftUI · Gemini API |
+| [**spark-mcp**](https://github.com/Puhavik/spark-mcp) | MCP server that gives AI assistants read-only access to Spark Desktop mail on macOS — full-text search over Spark's FTS5 indexes, unreplied-mail detection, calendar invite parsing, language-aware reply drafts; single file, stdlib only, no network access | Python · MCP |
+| [**apple-calendar-mcp**](https://github.com/Puhavik/apple-calendar-mcp) | MCP server for Apple Calendar and Reminders via EventKit — events with recurrence and alerts across iCloud/Google/Exchange accounts, dialog-free `.ics` import with Windows time zones, reminders management; no dependencies | Swift · EventKit · MCP |
 | [**SE1_UniWien**](https://github.com/Puhavik/SE1_UniWien) | AI-driven client for a competitive multiplayer Treasure Hunt game — autonomous pathfinding, game-state reasoning, 263-file codebase built for a graded university challenge | Java |
 | [**ADS_set**](https://github.com/Puhavik/ADS_set) | STL-compatible hash set with separate chaining — custom `std::hash` bucketing, `std::equal_to` key comparison, full iterator support | C++ |
 | [**smart-pointers-project**](https://github.com/Puhavik/smart-pointers-project) | Guild economy simulation modelling object ownership with `std::unique_ptr` and `std::shared_ptr` — polymorphic `Person` hierarchy, licenses and guild membership | C++ |
